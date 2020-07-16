@@ -1,12 +1,5 @@
 # Ounces-Converter
 Converts ounces to millilitres
-//******************************************************************
-// OunceConverter.java     Alida Thomas
-// 
-// This appication prompts the user to input a numerical amount of 
-// ounces and then calculates and diplays the equivalent amount of 
-// millilitres.
-//******************************************************************
 
 import java.util.Scanner;
 
